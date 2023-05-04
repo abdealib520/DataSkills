@@ -31,5 +31,5 @@ The data was collected from [Jsearch](https://rapidapi.com/letscrape-6bRBa3QguO5
 # Bar Chart for Programming Skills in Data Engineer Roles
 ![image](https://user-images.githubusercontent.com/132557392/236205740-e15ebade-629e-4578-9ca1-287016de01df.png)
 
-# Bar Chart for Programming Skills in Data Engineer Roles
+# Bar Chart for Software Skills in Data Engineer Roles
 ![image](https://user-images.githubusercontent.com/132557392/236205775-e1a8cc40-9bd3-464b-b4f7-b88d6e116caf.png)
