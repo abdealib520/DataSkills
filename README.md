@@ -11,7 +11,7 @@ The data was collected from [Jsearch](https://rapidapi.com/letscrape-6bRBa3QguO5
 
 ## Exploratory Data Analysis
 # Bar Chart for Programming Skills in Data Analyst Roles
-![image](https://user-images.githubusercontent.com/132557392/236203934-cf1663e4-5163-4789-9851-a8c22d523a6e.png)
+![image](https://user-images.githubusercontent.com/132557392/236205437-ec3cda57-390f-4133-a72d-6884ba9f97e7.png)
 
 # Bar Chart for Software Skills in Data Analyst Roles
 ![image](https://user-images.githubusercontent.com/132557392/236204327-282c8603-5584-4bc6-92af-3c165f59fadd.png)
