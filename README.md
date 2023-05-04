@@ -1,6 +1,11 @@
 # [DataSkills](https://abdealib520-dataskills-main-i93jq5.streamlit.app/)
 This is a website that i created that will tell you what kind of skills are required in the Data Science industry based on data taken from real world jobs.
 
+# Conclusion
+1. The skills that were required the most for Data Analyst Roles were SQL, Python, Excel and Tableau.
+2. The skills that were required the most for Data Scientist Roles were SQL, Python, Excel and Tableau.
+3. The skills that were required the most for Data Engineer Roles were SQL, Python, Excel, Airflow, Snowflake, Redshift.
+
 ## Data Collection
 The data was collected from [Jsearch](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/) API available on RapidAPI. The data was retrieved in a JSON format
 
