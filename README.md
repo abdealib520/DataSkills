@@ -1,5 +1,6 @@
 # [DataSkills](https://abdealib520-dataskills-main-i93jq5.streamlit.app/)
 This is a website that i created that will tell you what kind of skills are required in the Data Science industry based on data taken from real world jobs.
+The website was built using the streamlit library.
 
 # Conclusion
 1. The skills that were required the most for Data Analyst Roles were SQL, Python, Excel and Tableau. The main emphasis here was on Excel.
