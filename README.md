@@ -17,19 +17,19 @@ The data was collected from [Jsearch](https://rapidapi.com/letscrape-6bRBa3QguO5
 
 ## Exploratory Data Analysis
 # Bar Chart for Programming Skills in Data Analyst Roles
-![image](https://user-images.githubusercontent.com/132557392/236205437-ec3cda57-390f-4133-a72d-6884ba9f97e7.png)
+![image](https://user-images.githubusercontent.com/132557392/236671725-ffc042bd-5061-4d1a-9077-ba93640f7946.png)
 
 # Bar Chart for Software Skills in Data Analyst Roles
-![image](https://user-images.githubusercontent.com/132557392/236205607-a7e521ec-be16-41ab-aa2f-9f05422a50a6.png)
+![image](https://user-images.githubusercontent.com/132557392/236671733-55a9b467-3a11-4f1e-af6d-f4955a9fbd53.png)
 
 # Bar Chart for Programming Skills in Data Scientist Roles
-![image](https://user-images.githubusercontent.com/132557392/236205657-a2c922ac-f15e-48f5-9666-a616a7d9d191.png)
+![image](https://user-images.githubusercontent.com/132557392/236671746-b1178e33-7630-4e33-847a-cf9ca5335e03.png)
 
 # Bar Chart for Software Skills in Data Scientist Roles
-![image](https://user-images.githubusercontent.com/132557392/236205691-20eddcc2-7e19-464b-a259-cac5f99c3d6c.png)
+![image](https://user-images.githubusercontent.com/132557392/236671752-b6e57233-eaed-480d-a3fd-02a33fb69841.png)
 
 # Bar Chart for Programming Skills in Data Engineer Roles
-![image](https://user-images.githubusercontent.com/132557392/236205740-e15ebade-629e-4578-9ca1-287016de01df.png)
+![image](https://user-images.githubusercontent.com/132557392/236671762-a9412579-0021-42f1-9823-605019f8e4f2.png)
 
 # Bar Chart for Software Skills in Data Engineer Roles
-![image](https://user-images.githubusercontent.com/132557392/236205775-e1a8cc40-9bd3-464b-b4f7-b88d6e116caf.png)
+![image](https://user-images.githubusercontent.com/132557392/236671775-36b94713-307c-4c15-befa-d3c451bf19ce.png)
